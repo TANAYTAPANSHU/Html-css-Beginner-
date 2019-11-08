@@ -67,7 +67,7 @@ input, textarea {
   width: 400px;            
   margin-top: 10px;            
   margin-bottom: 30px;            
- padding: 20px;            
+ padding: 10px;            
  font-size: 18px;            
        border: 1px solid #dee7ec;            
                               }
@@ -89,6 +89,6 @@ color: #FF3333;
 }
 
 .footer-list li {
-  padding-bottom: 20px;
+  padding-bottom: 10px;
 color: #FF3333 ;
 }
