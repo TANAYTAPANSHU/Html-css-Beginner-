@@ -21,10 +21,12 @@ color:#FF3333;
 
 .header-list {
   float: right;
+  
 }
 
 .header-list li {
   padding-bottom: 10px;
+  color:#FAF9F9;
 }
 .a
 {
