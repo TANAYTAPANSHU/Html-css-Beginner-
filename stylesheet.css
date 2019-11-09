@@ -10,7 +10,7 @@ color:#FF3333;
 .header {
   background-color: #26d0c9;
   color: #fff;
-  height: 90px;
+  height: 100px;
 }
 
 .header-logo {
@@ -24,7 +24,7 @@ color:#FF3333;
 }
 
 .header-list li {
-  padding-bottom: 20px;
+  padding-bottom: 15px;
 }
 .a
 {
