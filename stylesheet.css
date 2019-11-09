@@ -42,8 +42,10 @@ color: #0000FF;
   font-size: 60px;
 color: #ff4a4a;
 }
-
-
+.introduction {
+  color:#10C5F3;
+  height:300px;
+}
 
 
 .introduction p1 {
