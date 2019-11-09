@@ -19,9 +19,12 @@ color:#FF3333;
   padding: 20px 40px;
 }
 
-.header-list li {
+.header-list {
   float: right;
-  padding: 33px 20px;
+}
+
+.header-list li {
+  padding-bottom: 20px;
 }
 .a
 {
