@@ -30,9 +30,7 @@ color:#FF3333;
 .main {
   padding: 100px 80px;
 }
-.introduction{
-  background-color: #F1F310;
-}
+
 
 .container h1 {
   font-size: 140px;
@@ -60,7 +58,9 @@ color: #ff4a4a;
   font-size: 24px;
   margin-top: 30px;
 }
-
+.introduction{
+  background-color: #F1F310;
+}
 .contact-form {
   padding-top: 10px;
 }
