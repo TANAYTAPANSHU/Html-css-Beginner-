@@ -1,5 +1,5 @@
 body {
-  font-family: "Avenir Next";
+  font-family: "Montserrat";
 }
 
 li {
@@ -45,7 +45,8 @@ color: #0000FF;
 
 .container h2 {
   font-size: 60px;
-color: #ff4a4a;
+background: #505050;
+
 }
 
 
@@ -57,7 +58,16 @@ color: #ff4a4a;
 font-size:30px
 }
 
+button{
+  color: #fff;
+  float: right;
+  font-weight: bold;
+  background-color: #804000;
+  font-family: Montserrat;
+  border: 0;
 
+
+}
 
 .footer {
   background-color:  #E1E30E ;
@@ -77,3 +87,5 @@ color: #FF3333;
   padding-bottom: 10px;
 color: #FF3333 ;
 }
+
+
